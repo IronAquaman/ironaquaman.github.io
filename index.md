@@ -7,5 +7,4 @@
 
 [interactive melanoma network (includes malignant cells + cancer-associated fibroblasts)](https://ironaquaman.github.io/melanoma_network/network/index.html)
 
-[presentation @ CYTO2019] 
-(https://slides.com/michaelstadnisky/deck-1)
+presentation @ CYTO2019: https://slides.com/michaelstadnisky/deck-1
